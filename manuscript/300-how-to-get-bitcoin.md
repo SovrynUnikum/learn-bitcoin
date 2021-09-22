@@ -1,14 +1,14 @@
-## How Do I Get Bitcoin?
+## Как получить биткойны?
 
-You can acquire bitcoin in three ways:
-* you exchange fiat for it
-* you earn it
-* you mine it
+Вы можете приобрести биткойн тремя способами:
+* вы обмениваете на него фиат
+* вы зарабатываете это
+* ты добываешь это
 
-The first option is the one most of us choose. You can use an online exchange or a Bitcoin ATM and sell your fiat money for bitcoin.
+Большинство из нас выбирают первый вариант. Вы можете использовать онлайн-обмен или биткойн-банкомат и продавать свои бумажные деньги за биткойны.
 
-Earning it is the better option. You could free up your basement and sell goods for bitcoin, or work as a freelancer and get paid in bitcoin et cetera.
+Заработок - лучший вариант. Вы можете освободить свой подвал и продавать товары за биткойны или работать фрилансером и получать оплату в биткойнах и так далее.
 
-Mining is not an option for most private households anymore. In the early days of Bitcoin, it was possible to mine on your computer. Today, sophisticated hardware - ASICs miners - is required and you need a very cheap source of electricity to remain profitable.
+Майнинг больше не подходит для большинства частных домохозяйств. На заре Биткойн майнить можно было на вашем компьютере. Сегодня требуется сложное оборудование - майнеры ASIC, и вам нужен очень дешевый источник электроэнергии, чтобы оставаться прибыльным.
 
-In the next chapters, we will go into the requirements to hold and use Bitcoin.
+В следующих главах мы рассмотрим требования к хранению и использованию биткойнов.
