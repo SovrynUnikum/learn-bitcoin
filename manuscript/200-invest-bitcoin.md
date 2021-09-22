@@ -1,5 +1,5 @@
-# Invest in Bitcoin?
+# Инвестировать в биткойн?
 
-If you have read this far, you have already invested time and energy in learning about Bitcoin. Why should or shouldn't you begin to use Bitcoin for yourself? Well, I advise you not to do so until you are sure that you want to try it. Only invest as much in Bitcoin as you understand and are comfortable to - only as much as you are willing to lose in a worst-case scenario.
+Если вы дочитали до этого места, значит, вы уже потратили время и силы на изучение Биткойн. Почему вы должны или не должны начинать использовать биткойн для себя? Что ж, я советую вам не делать этого, пока вы не будете уверены, что хотите попробовать. Вкладывайте в Биткойн только столько, сколько вы понимаете и можете - ровно столько, сколько вы готовы потерять в худшем случае.
 
-The more you get to know and use Bitcoin, the more trust you will build. I researched the topic for three months before I installed my first bitcoin wallet and exchanged my first 75 euros for bitcoin. I want to help you to make up your own mind so will now discuss the most common arguments for and against Bitcoin.
+Чем больше вы узнаете и используете Биткойн, тем больше у вас будет доверия. Я исследовал эту тему в течение трех месяцев, прежде чем установил свой первый биткойн-кошелек и обменял свои первые 75 евро на биткойны. Я хочу помочь вам составить собственное мнение, поэтому сейчас мы обсудим наиболее распространенные аргументы за и против Биткойна.
